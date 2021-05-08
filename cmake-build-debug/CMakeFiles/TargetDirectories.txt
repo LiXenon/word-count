@@ -1,0 +1,3 @@
+C:/Users/le'o/Desktop/C/Word Count/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/le'o/Desktop/C/Word Count/cmake-build-debug/CMakeFiles/Word_Count.dir
+C:/Users/le'o/Desktop/C/Word Count/cmake-build-debug/CMakeFiles/edit_cache.dir
